@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+title: "Raspberry Pi 5 Thermal Segmentation"
+message: "If you use this software, please cite the associated SoftwareX article and this archived repository."
+type: software
+authors:
+  - family-names: "Valdivia Gonzalez"
+    given-names: "Arturo"
+    email: "arturo.valdivia@academicos.udg.mx"
+  - family-names: "Aranguren Navarro"
+    given-names: "Itzel"
+    email: "itzel.aranguren@academicos.udg.mx"
+  - family-names: "Silva Mares"
+    given-names: "Oscar Gregorio"
+    email: "oscar.silva2580@academicos.udg.mx"
+  - family-names: "Sanchez Arreguin"
+    given-names: "Carla Georgina"
+    email: "carla.sanchez2472@alumnos.udg.mx"
+version: "1.0.0"
+date-released: "2026-10-02"
+license: "MIT"
+repository-code: "https://github.com/Carlageo9/Rpi5-thermal-multithreshold-segmentation"
+url: "https://github.com/Carlageo9/Rpi5-thermal-multithreshold-segmentation"
+abstract: >
+  This repository contains the source code, build files, camera-adapter scripts,
+  and documentation for open-source Raspberry Pi 5 edge software for live thermal
+  image acquisition and multithreshold segmentation. The system
+  integrates a Waveshare Thermal Camera HAT (B) / MI48 thermal camera with a
+  Python SPI/I2C acquisition adapter, a PySide6 graphical interface, and a C++17/OpenCV segmentation engine.
+  Captured thermal frames can be processed using seven metaheuristic optimizers:
+  Differential Evolution, Differential Evolution-Salp Swarm hybrid, Scheduled
+  Differential Evolution, Grey Wolf Optimizer, Particle Swarm Optimization, Crow
+  Search Algorithm, and Firefly Algorithm.
+keywords:
+  - Raspberry Pi 5
+  - thermal imaging
+  - multithreshold segmentation
+  - edge computing
+  - OpenCV
+  - metaheuristic optimization
+  - Kapur entropy
+  - Waveshare Thermal Camera HAT
+  - MI48
+preferred-citation:
+  type: article
+  title: "Raspberry Pi 5 Thermal Segmentation: Open-source edge software with a GUI for live acquisition and multithreshold image analysis"
+  authors:
+    - family-names: "Valdivia Gonzalez"
+      given-names: "Arturo"
+    - family-names: "Aranguren Navarro"
+      given-names: "Itzel"
+    - family-names: "Silva Mares"
+      given-names: "Oscar Gregorio"
+    - family-names: "Sanchez Arreguin"
+      given-names: "Carla Georgina"
+  journal: "SoftwareX"
+  year: 2026
+  doi: "10.5281/zenodo.23112063"

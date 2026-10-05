@@ -1,0 +1,23 @@
+# CMake/build artifacts
+build/
+build-*/
+cmake-build-*/
+
+# Python environments and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+
+# GUI runtime/output folders
+.gui_runtime/
+gui_captures/
+gui_results_live/
+
+# General runtime results
+results/
+results_live/
+
+# Editor/OS files
+.DS_Store
+*.swp
