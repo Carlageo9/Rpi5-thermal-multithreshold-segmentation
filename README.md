@@ -473,12 +473,12 @@ Third-party software and manufacturer SDKs remain subject to their respective li
 
 ## Citation
 
-doi: "10.5281/zenodo.23112063"
-url: "https://doi.org/10.5281/zenodo.23112063"
+doi: "10.5281/zenodo.23171864"
+url: "https://doi.org/10.5281/zenodo.23171864"
 repository-code: "https://github.com/Carlageo9/Rpi5-thermal-multithreshold-segmentation"
 
 ```text
 Arturo Valdivia Gonzalez, Itzel Aranguren Navarro, Oscar Gregorio Silva Mares, Carla Georgina Sánchez Arreguín.
-Raspberry Pi 5 Thermal Segmentation. Zenodo. DOI: 10.5281/zenodo.23112063.
+Raspberry Pi 5 Thermal Segmentation. Zenodo. DOI: 10.5281/zenodo.23171864.
 ```
 
